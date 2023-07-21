@@ -1,0 +1,36 @@
+#head {
+    color: rgb(14, 13, 13);
+    font-weight: 900;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#but {
+    background-color: rgb(238, 247, 245);
+    width: 300px;
+    margin-top: 10px;
+    text-align: center;
+    color: black;
+    border-color: white;
+
+}
+
+input {
+    border-radius: 7px;
+}
+
+#but:hover {
+    background-color: #cbcfd0;  
+}
+.span1 {
+    color: black;
+    margin-left: 100px;
+}
+
+.login {
+    background: linear-gradient(0deg, #4ca1af, #c4e0e5);
+    box-shadow: 10px 10px 42px 5px rgba(18, 17, 17, 0.91);
+    padding: 60px;
+    border-radius: 20px;
+    text-align: center;
+}
